@@ -20,6 +20,8 @@ El dataset principal se encuentra en el archivo `BD_Mo.xlsx` (hoja `Tabla1`) y c
 - `Evaluación`
 - `Sueldo`
 
+Nota: Los datos utilizados pertenecen a un dataset de ejemplo del curso de Power BI y no representan información real de empleados. Se usan únicamente con fines formativos.
+
 ## Flujo de trabajo
 
 1. **Excel y Power Query**  
