@@ -20,8 +20,6 @@ El dataset principal se encuentra en el archivo `BD_Mo.xlsx` (hoja `Tabla1`) y c
 - `Evaluación`
 - `Sueldo`
 
-> Nota: En caso de publicar el repositorio de forma pública, los datos reales deben anonimizarse o sustituirse por una muestra. 
-
 ## Flujo de trabajo
 
 1. **Excel y Power Query**  
