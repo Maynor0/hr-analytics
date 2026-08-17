@@ -1,4 +1,4 @@
-## Conclusiones de la Base 5: Empleados
+## Conclusiones de la Base: Empleados
 
 La Base 5 contiene información de 194 empleados, incluyendo variables de identificación (ID_Empleado, Nombre, Apellido), características personales (Género, Estado, Fecha de nacimiento) y laborales (Departamento, Posición, Nombre del jefe, Evaluación y Sueldo). A partir de esta base se realizó un análisis descriptivo e inferencial orientado a estudiar la distribución del personal, las diferencias salariales y la relación entre sueldo y evaluación.
 
